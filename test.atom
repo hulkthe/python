@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de"><id>http://lernfunk.de/_MEDIAID_123</id><title>Testfeed</title><updated>2018-08-16T11:13:28.259111+00:00</updated><author><name>Lars Kiesow</name><email>lkiesow@uos.de</email></author><link href="http://example.com" rel="alternate"/><link href="http://larskiesow.de/test.atom" rel="self"/><category term="test"/><contributor><name>Lars Kiesow</name><email>lkiesow@uos.de</email></contributor><contributor><name>John Doe</name><email>jdoe@example.com</email></contributor><generator uri="http://lkiesow.github.io/python-feedgen" version="0.7.0">python-feedgen</generator><icon>http://ex.com/icon.jpg</icon><logo>http://ex.com/logo.jpg</logo><rights>cc-by</rights><subtitle>This is a cool feed!</subtitle><entry><id>http://lernfunk.de/_MEDIAID_123#1</id><title>First Element</title><updated>2018-08-16T11:13:28.259111+00:00</updated><author><name>Lars Kiesow</name><email>lkiesow@uos.de</email></author><content>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Tamen
+            aberramus a proposito, et, ne longius, prorsus, inquam, Piso, si
+            ista mala sunt, placet. Aut etiam, ut vestitum, sic sententiam
+            habeas aliam domesticam, aliam forensem, ut in fronte ostentatio
+            sit, intus veritas occultetur? Cum id fugiunt, re eadem defendunt,
+            quae Peripatetici, verba.</content><link href="http://example.com" rel="alternate"/><summary>Lorem ipsum dolor sit amet, consectetur adipiscing elit…</summary></entry></feed>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>La Biblioteca Perdida</title>
+    <link>https://www.ivoox.com/biblioteca-perdida_aj_876187_1.html</link>
+    <description>Quinta saga de las Aventuras del VizcaÃ­no y compaÃ±Ã­a. En esta ocasiÃ³n abordaremos casi cuatro aÃ±os de historia donde la guerra de Flandes ocuparÃ¡ buena parte de la gesta, para terminar en la mÃ¡s alta ocasiÃ³n que vieron los siglos. Trece capÃ­tulos llenos de aventuras y batallas en un relato mÃ¡s oscuro que los anteriores, pero igual de apasionantes. UndÃ©cimo capÃ­tulo titulado "Los tres ejercitos". Â¡Desperta ferro!</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <image>
+      <url>https://static-2.ivoox.com/canales/5/6/7/2/8681470822765_MD.jpg</url>
+      <title>La Biblioteca Perdida</title>
+      <link>https://www.ivoox.com/biblioteca-perdida_aj_876187_1.html</link>
+    </image>
+    <lastBuildDate>Mon, 27 Aug 2018 15:28:56 +0000</lastBuildDate>
+    <item>
+      <description>Las aventuras del VizcaÃ­no, "Flandes" 5x11 "Los tres ejercitos" - LBP</description>
+      <guid isPermaLink="false">https://www.ivoox.com/aventuras-del-vizcaino-flandes-5x11-los-tres-audios-mp3_rf_27901952_</guid>
+      <enclosure url="http://www.ivoox.com/aventuras-del-vizcaino-flandes-5x11-los-tres_mf_27901952_feed_1.mp3" length="0" type="audio/mpeg"/>
+    </item>
+  </channel>
+</rss>
