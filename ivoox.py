@@ -14,7 +14,7 @@ class Application(tk.Frame):
         self.pack()
         self.create_widgets()
         self.set(0,2,'Hola')
-        
+        asdasd
     def create_widgets(self):
 
         self._widgets = []
