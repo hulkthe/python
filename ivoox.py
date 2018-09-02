@@ -6,7 +6,7 @@ from bs4 import BeautifulSoup
 from feedgen.feed import FeedGenerator
 
 
-class Application(tk.Frame):
+""" class Application(tk.Frame):
     def __init__(self,master=None):
         super().__init__(master)
         master.geometry('1024x780+30+30')
@@ -38,7 +38,7 @@ class Application(tk.Frame):
 
     def say_hi(self):
         print('hi there, everyone!')
-
+ """
 
 def download_mp3(url, name):
     r = requests.get(url, stream=True)
@@ -87,6 +87,7 @@ def sacarItems(soup, fg=None):
                 if content.get('itemprop') == 'url':
                     fe.id(content.get('content'))
                     #file_size(str)
+                    fe.link({"href":content.get('content')})
                     fe.enclosure(make_mp3_url(content.get('content')), 0, 'audio/mpeg')
 
                 if (content.get('itemprop') == 'name'):
@@ -230,12 +231,12 @@ def search_podcast(param):
     else:
         gen_podcast_feed(channels[int(pod_elegido)-1]['url'])
 
-root = tk.Tk()
+""" root = tk.Tk()
 #root.overrideredirect(True)
 app = Application(master=root)
-app.mainloop()
+app.mainloop() """
 
-""" def main(self, argv):
+def main(self, argv):
     try:
         opts,args = getopt.getopt(argv, "s:p:", ["sstring","pstring"])
     except getopt.GetoptError:
@@ -253,4 +254,4 @@ if __name__=="__main__":
         main(main, sys.argv[1:])
     else:
         print("podcast.py -s parametros_de_busqueda -p <url podcast>")
-        sys.exit() """
+        sys.exit()

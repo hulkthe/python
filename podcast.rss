@@ -1,21 +1,451 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
-    <title>La Biblioteca Perdida</title>
-    <link>https://www.ivoox.com/biblioteca-perdida_aj_876187_1.html</link>
-    <description>Quinta saga de las Aventuras del VizcaÃ­no y compaÃ±Ã­a. En esta ocasiÃ³n abordaremos casi cuatro aÃ±os de historia donde la guerra de Flandes ocuparÃ¡ buena parte de la gesta, para terminar en la mÃ¡s alta ocasiÃ³n que vieron los siglos. Trece capÃ­tulos llenos de aventuras y batallas en un relato mÃ¡s oscuro que los anteriores, pero igual de apasionantes. UndÃ©cimo capÃ­tulo titulado "Los tres ejercitos". Â¡Desperta ferro!</description>
+    <title>La Biblioteca de Tizca </title>
+    <link>https://www.ivoox.com/podcast-biblioteca-tizca_sq_f1370364_1.html</link>
+    <description>En la Biblioteca de Tizca podrás conocer el trasfondo del universo de Warhammer 40k en castellano.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <image>
-      <url>https://static-2.ivoox.com/canales/5/6/7/2/8681470822765_MD.jpg</url>
-      <title>La Biblioteca Perdida</title>
-      <link>https://www.ivoox.com/biblioteca-perdida_aj_876187_1.html</link>
+      <url>https://static-1.ivoox.com/canales/8/8/2/4/1231483304288_MD.jpg</url>
+      <title>La Biblioteca de Tizca </title>
+      <link>https://www.ivoox.com/podcast-biblioteca-tizca_sq_f1370364_1.html</link>
     </image>
-    <lastBuildDate>Mon, 27 Aug 2018 15:28:56 +0000</lastBuildDate>
+    <language>es</language>
+    <lastBuildDate>Sun, 02 Sep 2018 17:21:30 +0000</lastBuildDate>
     <item>
-      <description>Las aventuras del VizcaÃ­no, "Flandes" 5x11 "Los tres ejercitos" - LBP</description>
-      <guid isPermaLink="false">https://www.ivoox.com/aventuras-del-vizcaino-flandes-5x11-los-tres-audios-mp3_rf_27901952_</guid>
-      <enclosure url="http://www.ivoox.com/aventuras-del-vizcaino-flandes-5x11-los-tres_mf_27901952_feed_1.mp3" length="0" type="audio/mpeg"/>
+      <title>60 - Sanguinius y los Ángeles Sangrientos</title>
+      <link>https://www.ivoox.com/60-sanguinius-angeles-sangrientos-audios-mp3_rf_27170045_1.html</link>
+      <description>Hoy, en "La Biblioteca de Tizca", retomo los programas monográficos dedicados a las Legiones Astartes hablando de Sanguinius y sus Ángeles Sangrientos.</description>
+      <guid isPermaLink="false">https://www.ivoox.com/60-sanguinius-angeles-sangrientos-audios-mp3_rf_27170045_1.html</guid>
+      <enclosure url="http://www.ivoox.com/60-sanguinius-angeles-sangrientos_mf_27170045_feed_1.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>59 - La Masacre del Desembarco en Istvaan V</title>
+      <link>https://www.ivoox.com/59-la-masacre-del-desembarco-istvaan-audios-mp3_rf_26095904_1.html</link>
+      <description>Hoy, en "La Biblioteca de Tizca", continúo en plena Herejía de Horus tras narrar la Atrocidad de Istvaan III enlazándola con otra gran batalla campal de dicho período: la Masacre del Desembarco en Istvaan V.</description>
+      <guid isPermaLink="false">https://www.ivoox.com/59-la-masacre-del-desembarco-istvaan-audios-mp3_rf_26095904_1.html</guid>
+      <enclosure url="http://www.ivoox.com/59-la-masacre-del-desembarco-istvaan_mf_26095904_feed_1.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>58 - La Atrocidad de Istvaan III</title>
+      <link>https://www.ivoox.com/58-la-atrocidad-istvaan-iii-audios-mp3_rf_25989090_1.html</link>
+      <description>Hoy, en "La Biblioteca de Tizca", vuelvo diez milenios atrás en el tiempo, al momento en que cayó el telón y estalló la Herejía de Horus, nada más y nada menos que en Istvaan III, donde varias Legiones se enfrentaron en los inicios de esta gran guerra civil que cambió para siempre el rumbo de la humanidad en la galaxia.</description>
+      <guid isPermaLink="false">https://www.ivoox.com/58-la-atrocidad-istvaan-iii-audios-mp3_rf_25989090_1.html</guid>
+      <enclosure url="http://www.ivoox.com/58-la-atrocidad-istvaan-iii_mf_25989090_feed_1.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>57 - Los Cuervos Sangrientos Vol.2</title>
+      <link>https://www.ivoox.com/57-los-cuervos-sangrientos-vol-2-audios-mp3_rf_25134466_1.html</link>
+      <description>Hoy, en "La Biblioteca de Tizca", seguiré hablando acerca de los Cuervos Sangrientos. Os traigo una crónica completa de sus campañas, que pueden conocerse a través de los videojuegos y las novelas de la saga "Dawn of War".</description>
+      <guid isPermaLink="false">https://www.ivoox.com/57-los-cuervos-sangrientos-vol-2-audios-mp3_rf_25134466_1.html</guid>
+      <enclosure url="http://www.ivoox.com/57-los-cuervos-sangrientos-vol-2_mf_25134466_feed_1.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>56 - Los Cuervos Sangrientos Vol.1</title>
+      <link>https://www.ivoox.com/56-los-cuervos-sangrientos-vol-1-audios-mp3_rf_25063444_1.html</link>
+      <description>Hoy, en "La Biblioteca de Tizca", hablaré acerca de los Cuervos Sangrientos, un Capítulo de Marines Espaciales muy querido. Especialmente por los fans de los videojuegos de la serie "Dawn of War".</description>
+      <guid isPermaLink="false">https://www.ivoox.com/56-los-cuervos-sangrientos-vol-1-audios-mp3_rf_25063444_1.html</guid>
+      <enclosure url="http://www.ivoox.com/56-los-cuervos-sangrientos-vol-1_mf_25063444_feed_1.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>55 - La Telaraña</title>
+      <link>https://www.ivoox.com/55-la-telarana-audios-mp3_rf_24596648_1.html</link>
+      <description>Hoy, en "La Biblioteca de Tizca", hablaré acerca de la Telaraña. Sus orígenes, sus secretos y su uso por parte de algunas razas.</description>
+      <guid isPermaLink="false">https://www.ivoox.com/55-la-telarana-audios-mp3_rf_24596648_1.html</guid>
+      <enclosure url="http://www.ivoox.com/55-la-telarana_mf_24596648_feed_1.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>54 - La Disformidad</title>
+      <link>https://www.ivoox.com/54-la-disformidad-audios-mp3_rf_24336721_1.html</link>
+      <description>Hoy, en "La Biblioteca de Tizca", hablaré acerca de la Disformidad. Su naturaleza, su uso por parte del Imperio de la Humanidad y sus muchos peligros.</description>
+      <guid isPermaLink="false">https://www.ivoox.com/54-la-disformidad-audios-mp3_rf_24336721_1.html</guid>
+      <enclosure url="http://www.ivoox.com/54-la-disformidad_mf_24336721_feed_1.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>53 - Los Dreadnought</title>
+      <link>https://www.ivoox.com/53-los-dreadnought-audios-mp3_rf_24115787_1.html</link>
+      <description>Hoy, en "La Biblioteca de Tizca", hablaré de una de las armas más antiguas y letales del Imperio de la Humanidad: el Dreadnought, la prueba viviente de que a veces el deber no termina ni siquiera con la muerte.</description>
+      <guid isPermaLink="false">https://www.ivoox.com/53-los-dreadnought-audios-mp3_rf_24115787_1.html</guid>
+      <enclosure url="http://www.ivoox.com/53-los-dreadnought_mf_24115787_feed_1.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>52 - Las Hermanas de Batalla</title>
+      <link>https://www.ivoox.com/52-las-hermanas-batalla-audios-mp3_rf_23645995_1.html</link>
+      <description>Hoy, en "La Biblioteca de Tizca", hablaré de un ejército que protege al Imperio siguiendo las órdenes del Adeptus Ministorum y colaborando de cerca con el Ordo Hereticus. Os voy a hablar del Adepta Sororitas, las Hermanas de Batalla.</description>
+      <guid isPermaLink="false">https://www.ivoox.com/52-las-hermanas-batalla-audios-mp3_rf_23645995_1.html</guid>
+      <enclosure url="http://www.ivoox.com/52-las-hermanas-batalla_mf_23645995_feed_1.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>51 - Los Caballeros Grises</title>
+      <link>https://www.ivoox.com/51-los-caballeros-grises-audios-mp3_rf_23534867_1.html</link>
+      <description>Hoy, en "La Biblioteca de Tizca", hablaré del primer Capítulo de Marines Espaciales creado en la Segunda Fundación. El incorruptible brazo armado del Ordo Malleus de la Inquisición: los Caballeros Grises.</description>
+      <guid isPermaLink="false">https://www.ivoox.com/51-los-caballeros-grises-audios-mp3_rf_23534867_1.html</guid>
+      <enclosure url="http://www.ivoox.com/51-los-caballeros-grises_mf_23534867_feed_1.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>50 - Mortarion y la Guardia de la Muerte</title>
+      <link>https://www.ivoox.com/50-mortarion-guardia-la-audios-mp3_rf_23385061_1.html</link>
+      <description>Hoy, en "La Biblioteca de Tizca", hablaré de la XIV Legión, conocida por su resistencia e implacabilidad, además de por el impío aspecto de su Primarca. Hoy nos visitan Mortarion y su Guardia de la Muerte.</description>
+      <guid isPermaLink="false">https://www.ivoox.com/50-mortarion-guardia-la-audios-mp3_rf_23385061_1.html</guid>
+      <enclosure url="http://www.ivoox.com/50-mortarion-guardia-la_mf_23385061_feed_1.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>49 - Roboute Guilliman y los Ultramarines</title>
+      <link>https://www.ivoox.com/49-roboute-guilliman-ultramarines-audios-mp3_rf_23140556_1.html</link>
+      <description>Hoy, en "La Biblioteca de Tizca", hablaré de la XIII Legión, conocida por su inigualable capacidad estratégica, y de su ilustre Primarca, Roboute Guilliman, el mismísimo autor del Codex Astartes.</description>
+      <guid isPermaLink="false">https://www.ivoox.com/49-roboute-guilliman-ultramarines-audios-mp3_rf_23140556_1.html</guid>
+      <enclosure url="http://www.ivoox.com/49-roboute-guilliman-ultramarines_mf_23140556_feed_1.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>48 - Los Guardianes de la Muerte</title>
+      <link>https://www.ivoox.com/48-los-guardianes-muerte-audios-mp3_rf_22942427_1.html</link>
+      <description>Hoy, en "La Biblioteca de Tizca", hablo del contrapunto a todas las amenazas xeno que ponen en peligro al Imperio de la Humanidad. Os presento a los Guardianes de la Muerte, el brazo armado del Ordo Xenos de la Inquisición.</description>
+      <guid isPermaLink="false">https://www.ivoox.com/48-los-guardianes-muerte-audios-mp3_rf_22942427_1.html</guid>
+      <enclosure url="http://www.ivoox.com/48-los-guardianes-muerte_mf_22942427_feed_1.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>47 - Los Cultos Genestealer</title>
+      <link>https://www.ivoox.com/47-los-cultos-genestealer-audios-mp3_rf_22833703_1.html</link>
+      <description>Hoy, en "La Biblioteca de Tizca", cierro el arco sobre los Tiránidos hablando de los Cultos Genestealer.</description>
+      <guid isPermaLink="false">https://www.ivoox.com/47-los-cultos-genestealer-audios-mp3_rf_22833703_1.html</guid>
+      <enclosure url="http://www.ivoox.com/47-los-cultos-genestealer_mf_22833703_feed_1.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>46 - Los Squat</title>
+      <link>https://www.ivoox.com/46-los-squat-audios-mp3_rf_22695496_1.html</link>
+      <description>Hoy, en "La Biblioteca de Tizca", Oscar Calvo nos va a hablar acerca de los Squat, una de las razas más desconocidas del universo de Warhammer 40,000. Repasaremos el trasfondo, las listas de ejército a lo largo de las primeras ediciones del juego de miniaturas, y también habrá indicaciones sobre cómo coleccionar un ejército Squat hoy en día.</description>
+      <guid isPermaLink="false">https://www.ivoox.com/46-los-squat-audios-mp3_rf_22695496_1.html</guid>
+      <enclosure url="http://www.ivoox.com/46-los-squat_mf_22695496_feed_1.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>45 - Las Flotas Enjambre Tiránidas</title>
+      <link>https://www.ivoox.com/45-las-flotas-enjambre-tiranidas-audios-mp3_rf_22660318_1.html</link>
+      <description>Hoy, en "La Biblioteca de Tizca", voy a seguir hablando acerca de los Tiránidos, centrándome en sus Flotas Enjambre más conocidas hasta el Milenio 41.</description>
+      <guid isPermaLink="false">https://www.ivoox.com/45-las-flotas-enjambre-tiranidas-audios-mp3_rf_22660318_1.html</guid>
+      <enclosure url="http://www.ivoox.com/45-las-flotas-enjambre-tiranidas_mf_22660318_feed_1.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>44 - El árbol genético de los Tiránidos</title>
+      <link>https://www.ivoox.com/44-el-arbol-genetico-tiranidos-audios-mp3_rf_22382188_1.html</link>
+      <description>Hoy, en "La Biblioteca de Tizca", voy a profundizar en la evolución de los Tiránidos, dando una auténtica clase de xenobiología sobre sus muchas especies y variantes.</description>
+      <guid isPermaLink="false">https://www.ivoox.com/44-el-arbol-genetico-tiranidos-audios-mp3_rf_22382188_1.html</guid>
+      <enclosure url="http://www.ivoox.com/44-el-arbol-genetico-tiranidos_mf_22382188_feed_1.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>43 - Los Tiránidos</title>
+      <link>https://www.ivoox.com/43-los-tiranidos-audios-mp3_rf_22301835_1.html</link>
+      <description>Hoy, en "La Biblioteca de Tizca", voy a hablar de la última gran raza que me queda por presentaros: el Gran Devorador, o como se le conoce en el Imperio de la Humanidad, los Tiránidos.</description>
+      <guid isPermaLink="false">https://www.ivoox.com/43-los-tiranidos-audios-mp3_rf_22301835_1.html</guid>
+      <enclosure url="http://www.ivoox.com/43-los-tiranidos_mf_22301835_feed_1.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>42 - La Quema de Prospero</title>
+      <link>https://www.ivoox.com/42-la-quema-prospero-audios-mp3_rf_22064399_1.html</link>
+      <description>Hoy, en "La Biblioteca de Tizca", voy a narrar la gran batalla que tuvo lugar en Prospero cuando los Lobos Espaciales de Leman Russ asaltaron el planeta para castigar la traición de los Mil Hijos de Magnus el Rojo.</description>
+      <guid isPermaLink="false">https://www.ivoox.com/42-la-quema-prospero-audios-mp3_rf_22064399_1.html</guid>
+      <enclosure url="http://www.ivoox.com/42-la-quema-prospero_mf_22064399_feed_1.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>41 - Leman Russ y los Lobos Espaciales</title>
+      <link>https://www.ivoox.com/41-leman-russ-lobos-espaciales-audios-mp3_rf_21987703_1.html</link>
+      <description>Hoy, en "La Biblioteca de Tizca", voy a celebrar con vosotros el programa número 41 hablando de Leman Russ y de su legión: los Lobos Espaciales.</description>
+      <guid isPermaLink="false">https://www.ivoox.com/41-leman-russ-lobos-espaciales-audios-mp3_rf_21987703_1.html</guid>
+      <enclosure url="http://www.ivoox.com/41-leman-russ-lobos-espaciales_mf_21987703_feed_1.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>40 - Magnus el Rojo y los Mil Hijos</title>
+      <link>https://www.ivoox.com/40-magnus-rojo-mil-audios-mp3_rf_21882404_1.html</link>
+      <description>Hoy, en "La Biblioteca de Tizca", voy a celebrar con vosotros el programa número 40 hablando de Magnus el Rojo y de su legión: los Mil Hijos.</description>
+      <guid isPermaLink="false">https://www.ivoox.com/40-magnus-rojo-mil-audios-mp3_rf_21882404_1.html</guid>
+      <enclosure url="http://www.ivoox.com/40-magnus-rojo-mil_mf_21882404_feed_1.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>39 - La Legión de los Condenados</title>
+      <link>https://www.ivoox.com/39-la-legion-condenados-audios-mp3_rf_21714300_1.html</link>
+      <description>Hoy, en "La Biblioteca de Tizca", voy a hablar de la Legión de los Condenados. Una legión de lo más misteriosa y fantasmagórica, pero que defiende sin falta y salva siempre al Imperio de la Humanidad en sus peores momentos.</description>
+      <guid isPermaLink="false">https://www.ivoox.com/39-la-legion-condenados-audios-mp3_rf_21714300_1.html</guid>
+      <enclosure url="http://www.ivoox.com/39-la-legion-condenados_mf_21714300_feed_1.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>38 - La Cruzada de Damocles y el Comandante Farsight</title>
+      <link>https://www.ivoox.com/38-la-cruzada-damocles-el-audios-mp3_rf_21601754_1.html</link>
+      <description>Hoy, en "La Biblioteca de Tizca", voy a hablar de la Cruzada de Damocles y del Comandante O'shovah, también conocido como Farsight.</description>
+      <guid isPermaLink="false">https://www.ivoox.com/38-la-cruzada-damocles-el-audios-mp3_rf_21601754_1.html</guid>
+      <enclosure url="http://www.ivoox.com/38-la-cruzada-damocles-el_mf_21601754_feed_1.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>37 - Las Castas T'au y su filosofía de combate</title>
+      <link>https://www.ivoox.com/37-las-castas-t-au-su-filosofia-audios-mp3_rf_21271567_1.html</link>
+      <description>Hoy, en "La Biblioteca de Tizca", sigo hablando los T'au presentando sus Castas, cómo se organizan militarmente y qué doctrinas utilizan en combate.</description>
+      <guid isPermaLink="false">https://www.ivoox.com/37-las-castas-t-au-su-filosofia-audios-mp3_rf_21271567_1.html</guid>
+      <enclosure url="http://www.ivoox.com/37-las-castas-t-au-su-filosofia_mf_21271567_feed_1.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>36 - El Imperio T'au</title>
+      <link>https://www.ivoox.com/36-el-imperio-t-au-audios-mp3_rf_21050692_1.html</link>
+      <description>Hoy, en "La Biblioteca de Tizca", voy a hablar de una de las razas más jóvenes de la galaxia: los T'au y su Imperio, implacablemente devoto al Bien Supremo.</description>
+      <guid isPermaLink="false">https://www.ivoox.com/36-el-imperio-t-au-audios-mp3_rf_21050692_1.html</guid>
+      <enclosure url="http://www.ivoox.com/36-el-imperio-t-au_mf_21050692_feed_1.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>35 - Alpharius Omegon y la Legión Alfa</title>
+      <link>https://www.ivoox.com/35-alpharius-omegon-legion-alfa-audios-mp3_rf_20942008_1.html</link>
+      <description>Hoy, en "La Biblioteca de Tizca", voy a hablar de la Legión Traidora más engañosa y escurridiza. La Legión Alfa y sus no menos misteriosos Primarcas: Alpharius y Omegon.</description>
+      <guid isPermaLink="false">https://www.ivoox.com/35-alpharius-omegon-legion-alfa-audios-mp3_rf_20942008_1.html</guid>
+      <enclosure url="http://www.ivoox.com/35-alpharius-omegon-legion-alfa_mf_20942008_feed_1.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>34 - Los Ángeles Caídos</title>
+      <link>https://www.ivoox.com/34-los-angeles-caidos-audios-mp3_rf_20753380_1.html</link>
+      <description>Hoy, en "La Biblioteca de Tizca", voy a ampliar el trasfondo sobre la primera Legión, los Ángeles Oscuros, profundizando en su más terrible secreto: los Ángeles Caídos. Conoce los dos puntos de vista que dividen una Legión, quizá no tan leal y pura como se la suele considerar.</description>
+      <guid isPermaLink="false">https://www.ivoox.com/34-los-angeles-caidos-audios-mp3_rf_20753380_1.html</guid>
+      <enclosure url="http://www.ivoox.com/34-los-angeles-caidos_mf_20753380_feed_1.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>33 - Lion El'Jonson y los Ángeles Oscuros</title>
+      <link>https://www.ivoox.com/33-lion-el-jonson-angeles-oscuros-audios-mp3_rf_20630050_1.html</link>
+      <description>Hoy, en "La Biblioteca de Tizca", voy a hablar de la primera Legión creada por el Emperador para llevar a cabo su Gran Cruzada y de su Primarca: Lion El'Jonson y sus Ángeles Oscuros visitan nuestra biblioteca.</description>
+      <guid isPermaLink="false">https://www.ivoox.com/33-lion-el-jonson-angeles-oscuros-audios-mp3_rf_20630050_1.html</guid>
+      <enclosure url="http://www.ivoox.com/33-lion-el-jonson-angeles-oscuros_mf_20630050_feed_1.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>32 - El Adeptus Mechanicus</title>
+      <link>https://www.ivoox.com/32-el-adeptus-mechanicus-audios-mp3_rf_20501715_1.html</link>
+      <description>Hoy, en "La biblioteca de Tizca", voy a hablar de los fabricadores del Imperio de la Humanidad, a menudo eclipsados tras los Adeptus Astartes y el Astra Militarum: el Adeptus Mechanicus llega a nuestra biblioteca.</description>
+      <guid isPermaLink="false">https://www.ivoox.com/32-el-adeptus-mechanicus-audios-mp3_rf_20501715_1.html</guid>
+      <enclosure url="http://www.ivoox.com/32-el-adeptus-mechanicus_mf_20501715_feed_1.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>31 - El Astra Militarum</title>
+      <link>https://www.ivoox.com/31-el-astra-militarum-audios-mp3_rf_20271152_1.html</link>
+      <description>Hoy, en "La biblioteca de Tizca", voy a rendir a los más valientes defensores del Imperio de la Humanidad, el Astra Militarum, el homenaje que merecen por su implacable labor.</description>
+      <guid isPermaLink="false">https://www.ivoox.com/31-el-astra-militarum-audios-mp3_rf_20271152_1.html</guid>
+      <enclosure url="http://www.ivoox.com/31-el-astra-militarum_mf_20271152_feed_1.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>30 - La Tercera Guerra de Armageddon</title>
+      <link>https://www.ivoox.com/30-la-tercera-guerra-armageddon-audios-mp3_rf_20198236_1.html</link>
+      <description>Hoy, en "La biblioteca de Tizca", voy a culminar el momento de gloria de los Orkos narrando la Tercera Guerra de Armageddon.</description>
+      <guid isPermaLink="false">https://www.ivoox.com/30-la-tercera-guerra-armageddon-audios-mp3_rf_20198236_1.html</guid>
+      <enclosure url="http://www.ivoox.com/30-la-tercera-guerra-armageddon_mf_20198236_feed_1.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>29 - La Batalla de Ullanor y las primeras Guerras de Armageddon</title>
+      <link>https://www.ivoox.com/29-la-batalla-ullanor-las-audios-mp3_rf_20127601_1.html</link>
+      <description>Hoy, en "La biblioteca de Tizca", os voy a hablar de la conquista de Ullanor y de las dos primeras guerras de Armageddon, un mundo devastado por las contiendas entre los Orkos y el Imperio.</description>
+      <guid isPermaLink="false">https://www.ivoox.com/29-la-batalla-ullanor-las-audios-mp3_rf_20127601_1.html</guid>
+      <enclosure url="http://www.ivoox.com/29-la-batalla-ullanor-las_mf_20127601_feed_1.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>28 - El Universo es Orko</title>
+      <link>https://www.ivoox.com/28-el-universo-es-orko-audios-mp3_rf_19914434_1.html</link>
+      <description>Hoy, en "La biblioteca de Tizca", voy a hablar de cómo ven los Orkos el universo y a algunas de las razas que lo habitan.</description>
+      <guid isPermaLink="false">https://www.ivoox.com/28-el-universo-es-orko-audios-mp3_rf_19914434_1.html</guid>
+      <enclosure url="http://www.ivoox.com/28-el-universo-es-orko_mf_19914434_feed_1.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>27 - Los Orkos</title>
+      <link>https://www.ivoox.com/27-los-orkos-audios-mp3_rf_19724058_1.html</link>
+      <description>Hoy, en "La biblioteca de Tizca", voy a hablar en profundidad sobre los Orkos, la más belicosa de las razas que habitan en la galaxia en el Milenio 41.</description>
+      <guid isPermaLink="false">https://www.ivoox.com/27-los-orkos-audios-mp3_rf_19724058_1.html</guid>
+      <enclosure url="http://www.ivoox.com/27-los-orkos_mf_19724058_feed_1.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>26 - Los Arlequines</title>
+      <link>https://www.ivoox.com/26-los-arlequines-audios-mp3_rf_19542897_1.html</link>
+      <description>Hoy, en "La biblioteca de Tizca", voy a cerrar el ciclo sobre los Aeldari hablando de la última de sus facciones: los misteriosos y letales Arlequines.</description>
+      <guid isPermaLink="false">https://www.ivoox.com/26-los-arlequines-audios-mp3_rf_19542897_1.html</guid>
+      <enclosure url="http://www.ivoox.com/26-los-arlequines_mf_19542897_feed_1.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>25 - La Historia de los Hijos Caídos</title>
+      <link>https://www.ivoox.com/25-la-historia-hijos-caidos-audios-mp3_rf_19496473_1.html</link>
+      <description>Hoy, en "La biblioteca de Tizca", voy a contaros fragmentos de la Historia de los Hijos Caídos, cerrando mi trilogía sobre los Drukhari.</description>
+      <guid isPermaLink="false">https://www.ivoox.com/25-la-historia-hijos-caidos-audios-mp3_rf_19496473_1.html</guid>
+      <enclosure url="http://www.ivoox.com/25-la-historia-hijos-caidos_mf_19496473_feed_1.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>24 - Commorragh, la Ciudad Siniestra</title>
+      <link>https://www.ivoox.com/24-commorragh-ciudad-siniestra-audios-mp3_rf_19324049_1.html</link>
+      <description>Hoy, en "La biblioteca de Tizca", voy a daros a conocer el corrupto y macabro hogar de los Drukhari, la Ciudad Siniestra de Commorragh.</description>
+      <guid isPermaLink="false">https://www.ivoox.com/24-commorragh-ciudad-siniestra-audios-mp3_rf_19324049_1.html</guid>
+      <enclosure url="http://www.ivoox.com/24-commorragh-ciudad-siniestra_mf_19324049_feed_1.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>23 - Los Drukhari</title>
+      <link>https://www.ivoox.com/23-los-drukhari-audios-mp3_rf_19176463_1.html</link>
+      <description>Hoy, en "La biblioteca de Tizca", hago una pequeña introducción sobre nuestros nuevos y perversos invitados, los Drukhari.</description>
+      <guid isPermaLink="false">https://www.ivoox.com/23-los-drukhari-audios-mp3_rf_19176463_1.html</guid>
+      <enclosure url="http://www.ivoox.com/23-los-drukhari_mf_19176463_feed_1.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>22 - La Invasión Tiránida de Iyanden</title>
+      <link>https://www.ivoox.com/22-la-invasion-tiranida-iyanden-audios-mp3_rf_19044560_1.html</link>
+      <description>Hoy, en "La biblioteca de Tizca", termino de hablar sobre los Aeldari relatando su enfrentamiento contra el Enjambre Tiránido Kraken en el Mundo Astronave de Iyanden.</description>
+      <guid isPermaLink="false">https://www.ivoox.com/22-la-invasion-tiranida-iyanden-audios-mp3_rf_19044560_1.html</guid>
+      <enclosure url="http://www.ivoox.com/22-la-invasion-tiranida-iyanden_mf_19044560_feed_1.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>21 - La Mitología Aeldari</title>
+      <link>https://www.ivoox.com/21-la-mitologia-aeldari-audios-mp3_rf_18857726_1.html</link>
+      <description>Hoy, en "La biblioteca de Tizca", presento la mitología de los Aeldari, para profundizar un poco más en su trasfondo.</description>
+      <guid isPermaLink="false">https://www.ivoox.com/21-la-mitologia-aeldari-audios-mp3_rf_18857726_1.html</guid>
+      <enclosure url="http://www.ivoox.com/21-la-mitologia-aeldari_mf_18857726_feed_1.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>20 - Los Aeldari</title>
+      <link>https://www.ivoox.com/20-los-aeldari-audios-mp3_rf_18632737_1.html</link>
+      <description>Hoy, en "La biblioteca de Tizca", damos la bienvenida por fin a los Aeldari. Hablaré de su sociedad, su religión, la Caída y, sobre todo, de sus sendas. ¡Su mitología queda para el siguiente episodio!</description>
+      <guid isPermaLink="false">https://www.ivoox.com/20-los-aeldari-audios-mp3_rf_18632737_1.html</guid>
+      <enclosure url="http://www.ivoox.com/20-los-aeldari_mf_18632737_feed_1.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>19 - Las Cruzadas Negras Vol.3</title>
+      <link>https://www.ivoox.com/19-las-cruzadas-negras-vol-3-audios-mp3_rf_18508769_1.html</link>
+      <description>Hoy, en "La biblioteca de Tizca", relato la última de las Cruzadas Negras de Abaddon, todavía en curso y con notables éxitos para el bando del Caos y alguna que otra facción implicada.</description>
+      <guid isPermaLink="false">https://www.ivoox.com/19-las-cruzadas-negras-vol-3-audios-mp3_rf_18508769_1.html</guid>
+      <enclosure url="http://www.ivoox.com/19-las-cruzadas-negras-vol-3_mf_18508769_feed_1.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>18 - Las Cruzadas Negras Vol.2</title>
+      <link>https://www.ivoox.com/18-las-cruzadas-negras-vol-2-audios-mp3_rf_18447346_1.html</link>
+      <description>Hoy, en "La biblioteca de Tizca", relato más Cruzadas Negras llevadas a cabo por Abaddon el Saqueador contra el Imperio durante los últimos milenios, llegando hasta la primera en el Milenio 41.</description>
+      <guid isPermaLink="false">https://www.ivoox.com/18-las-cruzadas-negras-vol-2-audios-mp3_rf_18447346_1.html</guid>
+      <enclosure url="http://www.ivoox.com/18-las-cruzadas-negras-vol-2_mf_18447346_feed_1.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>17 - Las Cruzadas Negras Vol.1</title>
+      <link>https://www.ivoox.com/17-las-cruzadas-negras-vol-1-audios-mp3_rf_18146443_1.html</link>
+      <description>Hoy, en "La biblioteca de Tizca", para hablar un poco más sobre el Caos tras haber dado a conocer a los Poderes Ruinosos y a los Marines Espaciales del Caos, relato de forma "breve" algunas de las Cruzadas Negras llevadas a cabo por Abaddon el Saqueador contra el Imperio durante los últimos 10 milenios.</description>
+      <guid isPermaLink="false">https://www.ivoox.com/17-las-cruzadas-negras-vol-1-audios-mp3_rf_18146443_1.html</guid>
+      <enclosure url="http://www.ivoox.com/17-las-cruzadas-negras-vol-1_mf_18146443_feed_1.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>16 - Los Marines Espaciales del Caos</title>
+      <link>https://www.ivoox.com/16-los-marines-espaciales-del-caos-audios-mp3_rf_17901989_1.html</link>
+      <description>Hoy, en "La biblioteca de Tizca", tras haber hablado de los cuatro Poderes Ruinosos, presento a los traicioneros Marines del Caos, siempre dispuestos a vengarse de sus hermanos aún leales al "Emperador Cadáver".</description>
+      <guid isPermaLink="false">https://www.ivoox.com/16-los-marines-espaciales-del-caos-audios-mp3_rf_17901989_1.html</guid>
+      <enclosure url="http://www.ivoox.com/16-los-marines-espaciales-del-caos_mf_17901989_feed_1.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>15 - Los Dioses del Caos</title>
+      <link>https://www.ivoox.com/15-los-dioses-del-caos-audios-mp3_rf_17709476_1.html</link>
+      <description>Hoy, en "La biblioteca de Tizca", hablo de los cuatro Poderes Ruinosos que reinan en la Disformidad. Hoy Khorne, Tzeentch, Nurgle y Slaanesh visitan nuestra biblioteca.</description>
+      <guid isPermaLink="false">https://www.ivoox.com/15-los-dioses-del-caos-audios-mp3_rf_17709476_1.html</guid>
+      <enclosure url="http://www.ivoox.com/15-los-dioses-del-caos_mf_17709476_feed_1.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>14 - Las Dinastías de los Necrones</title>
+      <link>https://www.ivoox.com/14-las-dinastias-necrones-audios-mp3_rf_17475357_1.html</link>
+      <description>Hoy, en "La biblioteca de Tizca", termino con la saga de los Necrones repasando sus dinastías y mencionando los personajes clave en su trasfondo.</description>
+      <guid isPermaLink="false">https://www.ivoox.com/14-las-dinastias-necrones-audios-mp3_rf_17475357_1.html</guid>
+      <enclosure url="http://www.ivoox.com/14-las-dinastias-necrones_mf_17475357_feed_1.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>13 - El Gran Despertar de los Necrones</title>
+      <link>https://www.ivoox.com/13-el-gran-despertar-necrones-audios-mp3_rf_17243504_1.html</link>
+      <description>Hoy, en "La biblioteca de Tizca", sigo hablando sobre la historia de los Necrones, hablando del Gran Despertar y de su lento retorno a la reconquista galáctica.</description>
+      <guid isPermaLink="false">https://www.ivoox.com/13-el-gran-despertar-necrones-audios-mp3_rf_17243504_1.html</guid>
+      <enclosure url="http://www.ivoox.com/13-el-gran-despertar-necrones_mf_17243504_feed_1.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>12 - Los Necrones</title>
+      <link>https://www.ivoox.com/12-los-necrones-audios-mp3_rf_17107071_1.html</link>
+      <description>Hoy, en "La biblioteca de Tizca", hablaré de los Necrones. De su origen como raza mortal de carne y hueso, de sus guerras internas, de su engañoso pacto con los C’tan, de la guerra contra los Ancestrales y, por último, de su Gran Letargo.</description>
+      <guid isPermaLink="false">https://www.ivoox.com/12-los-necrones-audios-mp3_rf_17107071_1.html</guid>
+      <enclosure url="http://www.ivoox.com/12-los-necrones_mf_17107071_feed_1.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>11 - Los Ancestrales y los C'tan</title>
+      <link>https://www.ivoox.com/11-los-ancestrales-c-tan-audios-mp3_rf_17077561_1.html</link>
+      <description>Hoy, en "La biblioteca de Tizca", me remonto muchos milenios atrás del presente de Warhammer 40k para hablar de los Ancestrales y los C'tan, así como del conflicto que hubo entre ambos.</description>
+      <guid isPermaLink="false">https://www.ivoox.com/11-los-ancestrales-c-tan-audios-mp3_rf_17077561_1.html</guid>
+      <enclosure url="http://www.ivoox.com/11-los-ancestrales-c-tan_mf_17077561_feed_1.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>10 - La Inquisición</title>
+      <link>https://www.ivoox.com/10-la-inquisicion-audios-mp3_rf_16955679_1.html</link>
+      <description>Hoy, en "La biblioteca de Tizca" hablo de la Inquisición, la policía secreta del Imperio que vigila y da caza a cualquier amenaza a la estabilidad de los dominios del Dios-Emperador.</description>
+      <guid isPermaLink="false">https://www.ivoox.com/10-la-inquisicion-audios-mp3_rf_16955679_1.html</guid>
+      <enclosure url="http://www.ivoox.com/10-la-inquisicion_mf_16955679_feed_1.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>09 - La Era del Imperio</title>
+      <link>https://www.ivoox.com/09-la-era-del-imperio-audios-mp3_rf_16729291_1.html</link>
+      <description>Hoy, en "La biblioteca de Tizca" hablo de la época actual de la Humanidad en el universo de Warhammer 40k: la Era del Imperio. Esto incluye varios eventos como la "Purga" o la "Segunda Fundación" y también varias entidades como el "Adeptus Ministorum" o "Los Altos Señores de Terra".</description>
+      <guid isPermaLink="false">https://www.ivoox.com/09-la-era-del-imperio-audios-mp3_rf_16729291_1.html</guid>
+      <enclosure url="http://www.ivoox.com/09-la-era-del-imperio_mf_16729291_feed_1.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>08 - La Herejía de Horus Vol.3: La batalla final en Terra</title>
+      <link>https://www.ivoox.com/08-la-herejia-horus-vol-3-la-audios-mp3_rf_16584002_1.html</link>
+      <description>Hoy, en "La biblioteca de Tizca" concluyo el relato de la Herejía de Horus hablando de la batalla por la sagrada Terra, el asedio que decidiría el final de tan sangrienta campaña y que marcaría el destino del Imperio de la Humanidad durante los milenios posteriores.</description>
+      <guid isPermaLink="false">https://www.ivoox.com/08-la-herejia-horus-vol-3-la-audios-mp3_rf_16584002_1.html</guid>
+      <enclosure url="http://www.ivoox.com/08-la-herejia-horus-vol-3-la_mf_16584002_feed_1.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>07 - La Herejía de Horus Vol.2: La herejía revelada</title>
+      <link>https://www.ivoox.com/07-la-herejia-horus-vol-2-la-audios-mp3_rf_16555467_1.html</link>
+      <description>Hoy, en "La biblioteca de Tizca" continúo el relato de la Herejía de Horus hablando de su estallido en el sistema Istvaan y de algunas batallas importantes durante los siete años de guerra civil que provocó en el Imperio de la Humanidad.</description>
+      <guid isPermaLink="false">https://www.ivoox.com/07-la-herejia-horus-vol-2-la-audios-mp3_rf_16555467_1.html</guid>
+      <enclosure url="http://www.ivoox.com/07-la-herejia-horus-vol-2-la_mf_16555467_feed_1.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>06 - La Herejía de Horus Vol.1: Las raíces de la herejía</title>
+      <link>https://www.ivoox.com/06-la-herejia-horus-vol-1-las-audios-mp3_rf_16322555_1.html</link>
+      <description>Hoy, en "La biblioteca de Tizca" empiezo el relato de la Herejía de Horus, el conflicto que enfrentó al Imperio en una brutal guerra civil en la que los Primarcas, junto con sus propias legiones de Adeptus Astartes, se dividieron en dos bandos enfrentados.</description>
+      <guid isPermaLink="false">https://www.ivoox.com/06-la-herejia-horus-vol-1-las-audios-mp3_rf_16322555_1.html</guid>
+      <enclosure url="http://www.ivoox.com/06-la-herejia-horus-vol-1-las_mf_16322555_feed_1.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>05 - La Gran Cruzada</title>
+      <link>https://www.ivoox.com/05-la-gran-cruzada-audios-mp3_rf_16151595_1.html</link>
+      <description>Hoy, en "La biblioteca de Tizca" avanzo el relato de la historia de la humanidad con el Emperador iniciando su Gran Cruzada para conquistar toda la galaxia. Hablaré de las flotas, los Primarcas, los Marines Espaciales, el Astronomicón y la Herejía de Horus.</description>
+      <guid isPermaLink="false">https://www.ivoox.com/05-la-gran-cruzada-audios-mp3_rf_16151595_1.html</guid>
+      <enclosure url="http://www.ivoox.com/05-la-gran-cruzada_mf_16151595_feed_1.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>El Diario de Ibram Gaunt - Microrrelato Warhammer 40K - El Mundo que murió en una noche.</title>
+      <link>https://www.ivoox.com/diario-ibram-gaunt-microrrelato-warhammer-audios-mp3_rf_15936650_1.html</link>
+      <description>Audiorelato - Microrrelato de Warhammer 40k. &#13;
+Título: El mundo que murió en una noche.&#13;
+Texto extraido de: &#13;
+labibliotecadelgrannigromante.blogspot.com&#13;
+&#13;
+No soy tan buen narrador como la gente de la Biblioteca de Trantor pero escuchando un podcast suyo me animé a subir este audiorelato de Warhammer 40K. Gracias también al trabajo de la La Biblioteca del Gran Nigromante por recopilar el texto. &#13;
+&#13;
+Facebook: /El-Diario-de-Ibram-Gaunt</description>
+      <guid isPermaLink="false">https://www.ivoox.com/diario-ibram-gaunt-microrrelato-warhammer-audios-mp3_rf_15936650_1.html</guid>
+      <enclosure url="http://www.ivoox.com/diario-ibram-gaunt-microrrelato-warhammer_mf_15936650_feed_1.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>04 - Las Guerras de Unificación</title>
+      <link>https://www.ivoox.com/04-las-guerras-unificacion-audios-mp3_rf_15829941_1.html</link>
+      <description>Hoy, en "La biblioteca de Tizca" continúo el relato de la historia de la humanidad, alcanzando en el Milenio 30. En este momento el Emperador se presenta ya sin máscaras en Terra y empieza a reunificar el Imperio bajo su gobierno y la Verdad Imperial.</description>
+      <guid isPermaLink="false">https://www.ivoox.com/04-las-guerras-unificacion-audios-mp3_rf_15829941_1.html</guid>
+      <enclosure url="http://www.ivoox.com/04-las-guerras-unificacion_mf_15829941_feed_1.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>03 - La Era de los Conflictos</title>
+      <link>https://www.ivoox.com/03-la-era-conflictos-audios-mp3_rf_15717844_1.html</link>
+      <description>Hoy, en "La biblioteca de Tizca" sigo hablando de la historia de la humanidad entre los Milenios 25 y 30, período conocido hoy como la "Era de los Conflictos".</description>
+      <guid isPermaLink="false">https://www.ivoox.com/03-la-era-conflictos-audios-mp3_rf_15717844_1.html</guid>
+      <enclosure url="http://www.ivoox.com/03-la-era-conflictos_mf_15717844_feed_1.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>02 - La Era Oscura de la Tecnología</title>
+      <link>https://www.ivoox.com/02-la-era-oscura-tecnologia-audios-mp3_rf_15613888_1.html</link>
+      <description>Hoy, en "La biblioteca de Tizca" continúo hablando de la historia de la humanidad entre los Milenios 15 y 25, período conocido hoy como la "Era Oscura de la Tecnología".</description>
+      <guid isPermaLink="false">https://www.ivoox.com/02-la-era-oscura-tecnologia-audios-mp3_rf_15613888_1.html</guid>
+      <enclosure url="http://www.ivoox.com/02-la-era-oscura-tecnologia_mf_15613888_feed_1.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>01 - El Emperador</title>
+      <link>https://www.ivoox.com/01-el-emperador-audios-mp3_rf_15537252_1.html</link>
+      <description>Presentación de "La biblioteca de Tizca", introducción al universo y hobbie de "Warhammer 40k" e historia del Emperador de la Humanidad desde sus inicios hasta entrar en la Era Oscura de la Tecnología.</description>
+      <guid isPermaLink="false">https://www.ivoox.com/01-el-emperador-audios-mp3_rf_15537252_1.html</guid>
+      <enclosure url="http://www.ivoox.com/01-el-emperador_mf_15537252_feed_1.mp3" length="0" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
